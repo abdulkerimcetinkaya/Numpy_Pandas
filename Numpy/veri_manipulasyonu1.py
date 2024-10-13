@@ -1,5 +1,7 @@
 import numpy as np
 
+# Array Özellikleri
+
 # ndim : Dizinin kaç boyutlu olduğunu gösterir.
 # shape : Dizinin boyut bilgilerini (satır, sütun sayısı gibi) gösterir.
 # size : Dizide toplam kaç eleman olduğunu gösterir.
